@@ -18,7 +18,7 @@ export const goodsFromServer = [
 enum SortType {
   NONE = 'none',
   ALPHA = 'alpha',
-  LENGTH = 'length;',
+  LENGTH = 'length',
 }
 
 function getSortedGoods(
